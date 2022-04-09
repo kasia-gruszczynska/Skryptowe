@@ -1,2 +1,2 @@
 # Skryptowe
-Kurs UJ FAIS IGK: Podstawy jezykow skryptowych
+Kurs UJ FAIS IGK: Pracownia jezykow skryptowych
